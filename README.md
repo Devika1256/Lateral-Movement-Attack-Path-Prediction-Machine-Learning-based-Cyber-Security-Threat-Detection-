@@ -58,6 +58,11 @@ To demonstrate practical usability, a **Gradio-based web interface** was develop
 
   
 
+## Gradio Web Interface
+
+A lightweight Gradio-based web interface was built to demonstrate real-time
+prediction of lateral movement attack paths using the trained machine learning model.
+
 
  -![GRADIO INTERFACE](GRADIO%20INTERFACE.png)
 
