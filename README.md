@@ -1,13 +1,13 @@
 # Lateral Movement Attack Path Prediction (Machine Learning)
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on building an **end-to-end machine learning pipeline** to predict **lateral movement attack paths** in a cybersecurity environment. Lateral movement is a critical phase of cyber attacks where adversaries move across systems after an initial breach. Early detection helps reduce security risks, prevent privilege escalation, and minimize overall damage.
 
 The project was fully implemented in **Jupyter Notebook**, covering data analysis, feature engineering, model training, and evaluation.
 
 
 
-## 🎯 Objectives
+##  Objectives
 - Analyze system and network-related data to understand lateral movement behavior
 - Build machine learning models to predict potential attack paths
 - Handle class imbalance to improve minority-class (attack) detection
@@ -15,7 +15,7 @@ The project was fully implemented in **Jupyter Notebook**, covering data analysi
 
 
 
-## 🧠 Methodology
+##  Methodology
 
 ### Exploratory Data Analysis (EDA)
 - Performed EDA using **Pandas, NumPy, Matplotlib, and Seaborn**
@@ -43,10 +43,20 @@ The project was fully implemented in **Jupyter Notebook**, covering data analysi
 
 
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 - **Recall**
 - **F1-Score**
 - Stratified cross-validation ensured robust and reliable performance
+
+- ##  Gradio Web Interface
+To demonstrate practical usability, a **Gradio-based web interface** was developed to allow users to input feature values and receive real-time attack path predictions.
+
+**Features of the interface:**
+- User-friendly input fields for model features
+- Real-time prediction output
+- Simplified demonstration of the trained ML model
+
+
 
 
 
@@ -70,14 +80,14 @@ The project was fully implemented in **Jupyter Notebook**, covering data analysi
 ├── README.md
 
 
-## 🚀 Key Learnings
+##  Key Learnings
 - Handling class imbalance is crucial in cybersecurity machine learning problems
 - Recall-focused optimization significantly reduces undetected attacks
 - Stratified validation improves real-world model reliability
 
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Use real-time or streaming network data
 - Experiment with deep learning models
 - Deploy the model as an API for security operations use
