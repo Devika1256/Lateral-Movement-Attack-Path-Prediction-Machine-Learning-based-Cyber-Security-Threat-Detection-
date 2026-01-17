@@ -59,7 +59,7 @@ To demonstrate practical usability, a **Gradio-based web interface** was develop
   
 
 
-- ![Gradio Interface](Gradio_interface.png)
+ -![GRADIO INTERFACE](GRADIO%20INTERFACE.png)
 
 
 
