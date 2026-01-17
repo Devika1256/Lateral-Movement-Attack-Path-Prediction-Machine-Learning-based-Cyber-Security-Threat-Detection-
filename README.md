@@ -56,6 +56,11 @@ To demonstrate practical usability, a **Gradio-based web interface** was develop
 - Real-time prediction output
 - Simplified demonstration of the trained ML model
 
+  
+
+
+- ![Gradio Interface](Gradio_interface.png)
+
 
 
 
